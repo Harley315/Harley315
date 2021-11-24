@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harley
 - 👀 I’m interested in being outdoors as well as relaxing inside playing videos games.
-- 🌱 I’m looking to enrol in a coding bootcamp with Coders Academy Brisbane, Australia
-- 💞️ I’m looking to learn the fundamentlas of Web Development 
+- 🌱 I’m looking to enrol in a coding bootcamp with Coders Academy Brisbane, Australia.
+- 💞️ I’m looking to learn the fundamentals of Web Development.
 - 📫 How to reach me @harleylyons_ or harleylyons315@gmail.com
 
 <!---
